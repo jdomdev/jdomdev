@@ -1,4 +1,7 @@
-![](https://media.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3ohjV0PbaTBNw42YO4/giphy.gif" width=200>
+</div>
+
 ### Hi there 👋
 
 
