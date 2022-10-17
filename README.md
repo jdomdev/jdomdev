@@ -47,7 +47,7 @@
 - ⚡ Fun fact: ...
 
 <div align="left">
-  <h3>🔧 ⚙️ 🛠️ Languages and Tools:</h3>
+  <h3>🔧 ⚙️ 🛠️ My Technological Stack (Languages and Tools):</h3>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <!--<img src="https://seeklogo.com/images/S/spring-boot-logo-9D6125D4E7-seeklogo.com.png" title="Spring" alt="Spring" width="80" height="40"/>&nbsp;--> 
