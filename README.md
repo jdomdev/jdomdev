@@ -38,13 +38,13 @@
     </div>
    
    
-- 🌱 I’m currently learning ...
+<!--- 🌱 I’m currently learning -->
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
 - 📫 How to reach me: domingoortin.j@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!--- 😄 Pronouns: ...-->
+<!--- ⚡ Fun fact: ...-->
 
 <div align="left">
   <h3>🔧 ⚙️ 🛠️ My Technological Stack :</h3>
