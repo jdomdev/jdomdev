@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width=250>
   <h1 align="center">Hi People 👋</h1>
-  <h3 align="center">Passionate about programming in its different versions (Java, Python, Kotlin, etc...), in continuous training and developing my own apps as freelance from Madrid, Spain.</h3>
+  <h3 align="center">Passionate about programming in its different versions (JavaScript, Python, Android, Java, Kotlin, etc...), in continuous training and developing my own apps as freelance from Madrid, Spain.</h3>
 </div>
 
 <div id="badges" align="center">
