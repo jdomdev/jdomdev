@@ -42,7 +42,7 @@
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
-- 📫 How to reach me: domingoortin.j@gmail.com
+- 📫 How to reach me: jdomingo1010@duck.com
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
