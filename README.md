@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width=250>
-  <h1 align="center">Hi People 👋</h1>
-  <h3 align="center">Passionate about programming in its different versions (JavaScript, Python, Android, Java, Kotlin, etc...), in continuous training and developing my own apps as freelance from Madrid, Spain.</h3>
+  <h1 align="center">Hola Gente 👋</h1>
+  <h3 align="center">Soy un desarrollador apasionado con experiencia en diversos lenguajes de programación y tecnologías. Desde Madrid, España, me dedico al desarrollo de aplicaciones. Mi trayectoria incluye proyectos en Java Spring Boot, JavaScript, Python, SQL, Git, Android, entre otros, lo que demuestra mi versatilidad y adaptabilidad a diferentes entornos tecnológicos. Actualmente, estoy ampliando mis habilidades en el campo de la Ciencia de Datos mediante un curso especializado de 600 horas de duración.</h3>
 </div>
 
 <div id="badges" align="center">
@@ -15,11 +15,12 @@
 </div>
          
 ---
-### About me:
+### Acerca de mi:
 
-- 🔭 I’m currently working on my __Expense Note App__:
+- 🔭 Actualmente estoy realizando un curso en __Ciencia de Datos__:
   - <div align="left">
-      <h5>🛠️ Technologies:</h5>
+      <h5>🛠️ :</h5>
+        
       <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png" title="Spring Boot" alt="Spring Boot" width="80" height="40"/>&nbsp;
