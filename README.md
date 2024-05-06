@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width=250>
   <h1 align="center">Hola Gente 👋</h1>
-  <h3 align="center">Soy un desarrollador apasionado con experiencia en diversos lenguajes de programación y tecnologías. Desde Madrid, España, me dedico al desarrollo de aplicaciones. Mi trayectoria incluye proyectos en Java Spring Boot, JavaScript, Python, SQL, Git, Android, entre otros, lo que demuestra mi versatilidad y adaptabilidad a diferentes entornos tecnológicos. Actualmente, estoy ampliando mis habilidades en el campo de la Ciencia de Datos mediante un curso especializado de 600 horas de duración.</h3>
+  <h3 align="center">Soy un desarrollador apasionado con experiencia en diversos lenguajes de programación y tecnologías. Desde Madrid, España, me dedico al desarrollo de aplicaciones. Mi trayectoria incluye proyectos en Java Spring Boot, JavaScript, Python y Android, entre otros, lo que demuestra mi versatilidad y adaptabilidad a diferentes entornos tecnológicos. Actualmente, estoy ampliando mis habilidades en el campo de la Ciencia de Datos mediante un curso especializado de 600 horas de duración.</h3>
 </div>
 
 <div id="badges" align="center">
@@ -16,39 +16,48 @@
          
 ---
 ### Acerca de mi:
-
-- 🔭 Actualmente estoy realizando un curso en __Ciencia de Datos__:
-  - <div align="left">
-      <h5>🛠️ :</h5>
-        
+  - :chart_with_upwards_trend: :bar_chart: Actualmente estoy realizando un curso en __Ciencia de Datos__ <img src="https://github.com/john-sunday/john-sunday/assets/49209302/9b4b8c43-f1ab-4e48-b485-79f4e541eff4" alt="datascience" width="40" height="40"> donde trabajo con las siguientes tecnologías:
+    <div align="left">       
       <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png" title="Spring Boot" alt="Spring Boot" width="80" height="40"/>&nbsp;
-        <img src="http://fruzenshtein.com/wp-content/uploads/2014/01/Hibernate-logo.png" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
-        <img src="https://www.liberiangeek.net/wp-content/uploads/2018/12/maven2.jpg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="http://getdrawings.com/free-icon/postman-icon-69.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-        <img src="https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95" title="DBeaver" alt="DBeaver" width="90" height="40"/>&nbsp;        
-      </div>  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux Terminal" alt="linux" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" title="Power Shell" alt="powershell" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="Azure SQL Database" alt="azuresqldatabase" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="MicrosoftSQL Server" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="mongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="numpy" width="40" height="40"/>&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="pandas" width="40" height="40"/>&nbsp; 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power Bi" alt="powerbi" width="40" height="40"/>&nbsp;    
+      </div>
+  - Aplicándolas en los siguientes campos:
+    <div>
+    <img src="https://github.com/john-sunday/john-sunday/assets/49209302/d842cca6-939a-4f2d-be09-cded7061bdd6" alt="machinelearning" width="40" height="40">
+    <span style="vertical-align: super;">Machine Learning</span>&nbsp; 
+    <img src="https://github.com/john-sunday/john-sunday/assets/49209302/d7573e15-6293-4612-89f3-78e73175d2c0" alt="deeplearning" width="40" height="40">
+    <span style="vertical-align: super;">Deep Learning</span>&nbsp; 
+    </div>    
   - <h5>:link: GitHub repository link</h5>
     <div>
       <a href="https://github.com/john-sunday/Expense_Note_App-Spring_Boot">
         <img src="https://cdn3.iconfinder.com/data/icons/sociocons/256/github-sociocon.png" alt="Expense Note App" width="40" height="40"/> 
       </a>
     </div>
-   
+
    
 <!--- 🌱 I’m currently learning -->
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
-- 📫 How to reach me: jdomingo1010@duck.com
+- :mailbox_with_mail: Cómo contactar conmigo: jdomingo1010@duck.com
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
 <div align="left">
-  <h3>🔧 ⚙️ 🛠️ My Technological Stack :</h3>
+  <h3>🛠️ My Technological Stack ⚙️:</h3>
   <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
