@@ -85,8 +85,8 @@
 ---
 ### :bar_chart: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=john-sunday&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jdomdev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![john-sunday's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-sunday&show_icons=true&theme=dark)
+![jdomdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdomdev&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-sunday&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdomdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
