@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BACNp4PYgXACSPujxi/giphy.gif" width=250>
   <h1 align="center">¡Hola Gente! 👋</h1>
-  <h3 align="center">Soy Juan Domingo, Fullstack Developer y Científico de Datos, apasionado por crear soluciones innovadoras que combinan desarrollo de software con análisis de datos. Con sede en Madrid, España, tengo experiencia en una variedad de tecnologías para proyectos complejos y colaborativos.</h3>
+  <h3 align="center">Soy Juan Domingo, Fullstack Developer y Analista de Datos, apasionado por crear soluciones innovadoras que combinan desarrollo de software con análisis de datos. Con sede en Madrid, España, tengo experiencia en una variedad de tecnologías para proyectos complejos y colaborativos.</h3>
 </div>
 
 <div id="badges" align="center">
