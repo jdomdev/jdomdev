@@ -116,9 +116,11 @@ Una **aplicación web** diseñada para gestionar las operaciones de una clínica
 ---
 
 # Curso de Ciencia de Datos
-  📍 *Colegio Tajamar, Madrid (Presencial)*  
-  📅 *Mar. 2024 – Sep. 2024 (600 horas)*  
-
+Este año, he finalizado un curso en Ciencia de Datos financiado por la UE y los servicios públicos de empleo:  
+📍 *Colegio Tajamar, Madrid (Presencial)*  
+📅 *Mar. 2024 – Sep. 2024 (600 horas)*  
+🏛️ *Data Science, IFCT156PO, Fondo Social Europeo*
+  
 
 ## 🧠 Tecnologías del Curso de Ciencia de Datos
 
